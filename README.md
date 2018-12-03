@@ -15,3 +15,8 @@
 ==> pip install chalice
 ~~~
 
+
+~~~
+==> chalice new-project
+~~~
+
